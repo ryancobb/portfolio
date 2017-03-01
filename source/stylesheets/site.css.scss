@@ -1,0 +1,8 @@
+@charset "utf-8";
+@import "materialize";
+
+@media #{$large-and-up} {
+	.brand-logo {
+		margin-left: 20px;
+	}
+}
